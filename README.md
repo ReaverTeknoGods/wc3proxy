@@ -12,3 +12,8 @@ I found it from the Internet and choose it because it is open source, but when I
 * It should have Unicode support
 
 Thankfully, the code is not too heavy. I have done some commits to fix the problems above. Hope someone like it :)
+
+Edit by Reaver:
+- Add 1.28
+- SelectedIndex always 0 in version number.
+- Remove untested text from 1.27
